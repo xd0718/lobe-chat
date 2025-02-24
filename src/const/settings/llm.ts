@@ -6,11 +6,11 @@ export const DEFAULT_LLM_CONFIG = genUserLLMConfig({
     fetchOnClient: true,
   },
   ollama: {
-    enabled: true,
+    enabled: false,
     fetchOnClient: true,
   },
   openai: {
-    enabled: true,
+    enabled: false,
   },
 });
 
