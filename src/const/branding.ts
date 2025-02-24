@@ -4,7 +4,7 @@
 
 export const LOBE_CHAT_CLOUD = 'LobeChat Cloud';
 
-export const BRANDING_NAME = 'LobeChat';
+export const BRANDING_NAME = '聊城人工智能Ai医疗测试平台';
 export const BRANDING_LOGO_URL = '';
 
 export const ORG_NAME = 'LobeHub';
